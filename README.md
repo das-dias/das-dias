@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @das-dias
-- 👀 I’m interested in Integrated Circuit optimization
+- 👋 Hi, I’m Diogo André, a.k.a. @das-dias
+- 👀 I’m interested in Integrated Circuits
 - 🌱 I’m currently learning about the applications of Artificial Intelligence in Integrated Circuit optimization
 - 💞️ I’m looking to collaborate on Open Source Hardware projects
 - 📫 How to reach me : @ das.dias@campus.fct.unl.pt or @ das.dias6@gmail.com
