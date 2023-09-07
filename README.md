@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Diogo André, a.k.a. @das-dias
-- 👀 I’m interested in Integrated Circuits & Open-source Hardware
-- 🌱 I’m currently learning about the applications of Machine Learning in Integrated Circuit optimization
-- 💞️ I’m looking to collaborate on Open Source Hardware projects
+About me:
+- 👋 Hi, I’m Diogo André
+- 👀 I’m interested in Integrated Circuits & Computational Electromagnetics
+- 🌱 I'm a PhD student in Nanoelectronics with a mixed scolarship at [NOVA University of Lisbon-SST](https://www.fct.unl.pt/en) & [TU Delft-EEMCS](https://www.tudelft.nl/en/eemcs)
+- 💞️ I like to collaborate on Open Source Hardware projects
 - 📫 How to reach me : @ das.dias@campus.fct.unl.pt or @ das.dias6@gmail.com
+
+Some statistics:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=das-dias)](https://github.com/das-dias/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 das-dias/das-dias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
