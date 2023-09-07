@@ -10,7 +10,7 @@
 <!--END_SECTION:waka-->
 
 ```rust
-let mission: String = String::from("It is time to start building hardware like software is built.")
+let mission: &str = "It is time to start building hardware like software is built."
 ```
 
 <!---
