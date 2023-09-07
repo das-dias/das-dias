@@ -21,11 +21,12 @@ let mission: &str = "It is time to start building hardware like software is buil
 
 Documentation:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<i class="devicon-latex-original" width=200></i>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-jupyter-plain-wordmark"></i>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<i class="devicon-markdown-original"></i>
+          
 
 Development:
 
