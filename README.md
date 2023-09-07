@@ -22,7 +22,7 @@ let mission: &str = "It is time to start building hardware like software is buil
 Documentation:
 <div>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=60 />     
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" colored width=60 />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=60 />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=60 />
 </div>
 
@@ -39,7 +39,7 @@ Development:
 
 Programming Languages:
 <div>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" colored width=60 />          
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=60 />        
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=60 />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=60 />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=60 />
