@@ -1,4 +1,3 @@
-About me:
 - 👋 Hi, I’m Diogo André
 - 👀 I’m interested in Integrated Circuits & Computational Electromagnetics
 - 🌱 I'm a PhD student in Nanoelectronics with a mixed scolarship at [NOVA University of Lisbon-SST](https://www.fct.unl.pt/en) & [TU Delft-EEMCS](https://www.tudelft.nl/en/eemcs)
