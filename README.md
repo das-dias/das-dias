@@ -13,6 +13,8 @@
     }
 </style>
 
+---
+
 <p align=center> Hi, I'm Diogo André </p>
 
 <p align=center> Integrated Circuits | Computational Electromagnetics </p>
