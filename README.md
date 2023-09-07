@@ -1,20 +1,3 @@
-
-[//]: # "double column style"
-
-<style>
-    .container{
-        display: flex;
-    }
-    .col{
-        flex: 1;
-        align-self: center;
-        text-align: center;
-        align-items: left;
-    }
-</style>
-
----
-
 <p align=center> Hi, I'm Diogo André </p>
 
 <p align=center> Integrated Circuits | Computational Electromagnetics </p>
@@ -26,13 +9,13 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<div class=container>
-  <div class="col">
+<div class=container style="display: flex">
+  <div class="col" style="flex: 1; align-self: center; text-align: left; align-items: center;">
     <code lang=rust>
       It is time to start building hardware like software is built.
     </code>
   </div>
-  <div class="col">
+  <div class="col" style="flex: 1; align-self: center; text-align: left; align-items: center;">
     <img src=./resources/3dlayout.png width=400 />
   </div>
 </div>
