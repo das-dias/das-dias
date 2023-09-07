@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### meta
-          API_BASE_URL: https://wakatime.dev/api # optional
+          API_BASE_URL: https://wakatime.com/api # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
@@ -34,4 +34,3 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Diogo Andre # optional
