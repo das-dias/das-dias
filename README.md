@@ -1,3 +1,5 @@
+
+
 <p align=center> Hi, I'm Diogo André </p>
 
 <p align=center> Integrated Circuits | Computational Electromagnetics </p>
@@ -12,6 +14,40 @@
 ```rust
 let mission: &str = "It is time to start building hardware like software is built."
 ```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<p align=center>Tools I like to work with:</p>
+
+Documentation:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+
+Development:
+
+<i class="devicon-git-plain-wordmark"></i>          
+
+<i class="devicon-docker-plain-wordmark"></i>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />          
+
+Programming Languages:
+
+<i class="devicon-rust-plain"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
+
 
 <!---
 das-dias/das-dias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
