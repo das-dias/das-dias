@@ -9,6 +9,31 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[//]: # "double column style"
+
+<style>
+    .container{
+        display: flex;
+    }
+    .col{
+        flex: 1;
+        align-self: center;
+        text-align: center;
+        align-items: left;
+    }
+</style>
+
+<div class=container>
+  <div class="col">
+    <code lang=rust>
+      It is time to start building hardware like software is built.
+    </code>
+  </div>
+  <div class="col">
+    <img src=./resources/3dlayout.png width=400 />
+  </div>
+</div>
+
 <!---
 das-dias/das-dias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
