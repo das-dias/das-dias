@@ -11,7 +11,7 @@
 
 <div class=container style="display: flex">
   <div class="col" style="flex: 1; align-self: center; text-align: left; align-items: center;">
-    <code lang=rust>
+    <code>
       It is time to start building hardware like software is built.
     </code>
   </div>
