@@ -5,8 +5,6 @@ About me:
 - 💞️ I like to collaborate on Open Source Hardware projects
 - 📫 How to reach me : @ das.dias@campus.fct.unl.pt or @ das.dias6@gmail.com
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=das-dias)](https://github.com/das-dias/github-readme-stats)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
