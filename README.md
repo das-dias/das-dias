@@ -8,8 +8,7 @@
 - 🏛️: [NOVA University of Lisbon-SST](https://www.fct.unl.pt/en) & [TU Delft-EEMCS](https://www.tudelft.nl/en/eemcs)
 - 📫 How to reach me : @ das.dias@campus.fct.unl.pt or @ das.dias6@gmail.com
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+You can check out my portfolio web page at [das-dias.github.io](https://das-dias.github.io/).
 
 ```rust
 let mission: &str = "It is time to start building hardware like software is built."
@@ -19,7 +18,8 @@ let mission: &str = "It is time to start building hardware like software is buil
 
 <p align=center>Tools I like to work with:</p>
 
-Documentation:
+<p align=center>Documentation:</p>
+
 <div align=center>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=60 />     
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=60 />   
@@ -30,7 +30,7 @@ Documentation:
 
        
 
-Development:
+<p align=center>Development:</p>
 
 <div align=center>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width=60 />
@@ -39,7 +39,7 @@ Development:
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=60 />          
 </div>
 
-Programming Languages:
+<p align=center>Programming Languages:</p>
 <div align=center>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=60 />        
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=60 />
