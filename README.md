@@ -8,11 +8,6 @@
 - 🏛️: [NOVA University of Lisbon-SST](https://www.fct.unl.pt/en) & [TU Delft-EEMCS](https://www.tudelft.nl/en/eemcs)
 - 📫 How to reach me : @ das.dias@campus.fct.unl.pt or @ das.dias6@gmail.com
 
-You can check out my portfolio web page at [das-dias.github.io](https://das-dias.github.io/).
-
-```rust
-let mission: &str = "It is time to start building hardware like software is built."
-```
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
