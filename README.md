@@ -6,7 +6,7 @@
 
 - 🔭: I'm a PhD student in Nanoelectronics
 - 🏛️: [NOVA University of Lisbon-SST](https://www.fct.unl.pt/en) & [TU Delft-EEMCS](https://www.tudelft.nl/en/eemcs)
-- 📫 How to reach me : @ das.dias@campus.fct.unl.pt or @ das.dias6@gmail.com
+- 📫 How to reach me : @ das.dias@campus.fct.unl.pt
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
