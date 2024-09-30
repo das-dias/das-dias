@@ -1,45 +1,41 @@
+<h1 align="center"> Hi, I'm Diogo André 👋 </h1>
 
+<h3 align="center"> Integrated Circuits | Computational Electromagnetics | Nanoelectronics PhD Student </h3>
 
-<p align=center> Hi, I'm Diogo André </p>
+<p align="center">
+    🔭 I’m currently pursuing my PhD in Nanoelectronics <br>
+    🏛️ Affiliated with <a href="https://www.fct.unl.pt/en">NOVA University of Lisbon-SST</a> & <a href="https://www.tudelft.nl/en/eemcs">TU Delft-EEMCS</a> <br>
+    📫 Reach me at: <a href="mailto:das.dias@campus.fct.unl.pt">das.dias@campus.fct.unl.pt</a>
+</p>
 
-<p align=center> Integrated Circuits | Computational Electromagnetics </p>
+---
 
-- 🔭: I'm a PhD student in Nanoelectronics
-- 🏛️: [NOVA University of Lisbon-SST](https://www.fct.unl.pt/en) & [TU Delft-EEMCS](https://www.tudelft.nl/en/eemcs)
-- 📫 How to reach me : @ das.dias@campus.fct.unl.pt
+### 🛠️ Tools & Technologies I Use:
 
+#### Documentation & Design:
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" alt="Inkscape" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" alt="Blender" width="60" />
+</p>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+#### Development Tools:
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60" />
+</p>
 
-<p align=center>Tools I like to work with:</p>
+#### Programming Languages:
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" />
+</p>
 
-<p align=center>Documentation:</p>
-
-<div align=center>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=60 />     
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=60 />   
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=60 />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" width=60 />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width=60 />
-</div>
-
-       
-
-<p align=center>Development:</p>
-
-<div align=center>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width=60 />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=60 />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width=60 />
-</div>
-
-<p align=center>Programming Languages:</p>
-<div align=center>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=60 />        
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=60 />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=60 />
-</div>
-
+---
 
 <!---
 das-dias/das-dias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
