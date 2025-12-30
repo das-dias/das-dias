@@ -9,11 +9,13 @@
     📫 Reach me at: <a href="mailto:das.dias@campus.fct.unl.pt">das.dias@campus.fct.unl.pt</a>
 </p>
 ---
+
 ### Research Interests: 
 - Mixed-Signal Integrated Circuits
 - Nyquist Rate Data Converters
 - Implantable and Wearable Ultrasound-on-Chip Systems and Technologies
 ---
+
 ### Open to Collaborate:
 - Open Source General Purpose LVS, DRC and Parasitic Extraction Engines
 - Python-based Integrated Circuit design flows
